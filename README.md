@@ -1,4 +1,6 @@
 # 📊 Structured Probabilistic Models for Financial Market Clustering 
+This project was completed as part of MSDS-690 Capstone: Data Science Theory.
+
 ## Overview
 
 This project analyzes financial market structure using correlation networks, probabilistic filtering, and hierarchical clustering. The goal is to identify stable, economically meaningful relationships among financial assets and understand how market structure behaves under different conditions.
