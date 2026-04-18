@@ -20,6 +20,7 @@ This project analyzes financial market structure using correlation networks, pro
 
 ## Files in this repository
 - structured_probabilistic_market_clustering.pdf → Full academic report
+- Hierarchical_Clustering_Poster_Sage_Beige.pdf → Project presentation slides
 
 ## Techniques Used
 - Correlation analysis
